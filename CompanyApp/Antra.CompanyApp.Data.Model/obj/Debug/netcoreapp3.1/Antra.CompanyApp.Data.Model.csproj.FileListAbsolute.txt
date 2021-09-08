@@ -1,9 +1,0 @@
-C:\Users\Madhusudan Sharma\source\repos\Aug2021\CompanyApp\Antra.CompanyApp.Data.Model\bin\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Model.deps.json
-C:\Users\Madhusudan Sharma\source\repos\Aug2021\CompanyApp\Antra.CompanyApp.Data.Model\bin\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Model.dll
-C:\Users\Madhusudan Sharma\source\repos\Aug2021\CompanyApp\Antra.CompanyApp.Data.Model\bin\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Model.pdb
-C:\Users\Madhusudan Sharma\source\repos\Aug2021\CompanyApp\Antra.CompanyApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Model.csprojAssemblyReference.cache
-C:\Users\Madhusudan Sharma\source\repos\Aug2021\CompanyApp\Antra.CompanyApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Model.AssemblyInfoInputs.cache
-C:\Users\Madhusudan Sharma\source\repos\Aug2021\CompanyApp\Antra.CompanyApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Model.AssemblyInfo.cs
-C:\Users\Madhusudan Sharma\source\repos\Aug2021\CompanyApp\Antra.CompanyApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Model.csproj.CoreCompileInputs.cache
-C:\Users\Madhusudan Sharma\source\repos\Aug2021\CompanyApp\Antra.CompanyApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Model.dll
-C:\Users\Madhusudan Sharma\source\repos\Aug2021\CompanyApp\Antra.CompanyApp.Data.Model\obj\Debug\netcoreapp3.1\Antra.CompanyApp.Data.Model.pdb
